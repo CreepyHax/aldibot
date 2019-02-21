@@ -7,7 +7,7 @@ from itertools import cycle
 import time
 import youtube_dl
 
-my_token = 'NTQ2NTI0ODc1NzM3NjYxNDQ1.D0qTSw.FgHxJ6Q-ySgADxgR4FXXSBAMGyE'
+my_token = 'NTQzNzE4ODQ5ODg4MTI0OTM4.D1AKew.2F9BzM4wXc9M0YTObWH_DMxQVWo'
 
 client = commands.Bot(command_prefix = 'a!')
 
